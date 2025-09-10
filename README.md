@@ -41,15 +41,17 @@ The HR Analytics Dashboard addresses these challenges by:
 - **Power Query** → Data cleaning & transformation  
 - **Visualization Techniques** → Bar chart, line chart, donut chart, card visuals  
 
-## 📷 Dashboard Screenshots  
-> *(Add your screenshots here once uploaded to GitHub)*  
+## 📷 Dashboard Screenshots    
 - **Overview of Workforce Metrics**
-- **Department-wise Salary & Performance Analysis**  
-- **Interactive Leave & Employment Status Filters**
+![Overview of Workforce Metrics](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Dashboard.png)
+- **Department-wise Rating Analysis**
+![Department-wise Rating Analysis](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Dashboard.png)
+- **Department-wise Salaries Analysis**
+![Department-wise Salaries Analysis](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Dashboard.png)
 
 ## 📊 Key Insights  
 - **52% of employees are female**, with a strong presence across departments.  
-- **Remote work** accounts for **49%** of the workforce, indicating a hybrid model.  
+- **Remote work** accounts for **48%** of the workforce, indicating a hybrid model.  
 - **Technical skills** dominate the skill set, followed by communication and management.  
 - **HR department** shows the highest average performance rating (3.8).  
 - **Salary distribution** varies significantly across roles, with managers earning the highest.  
@@ -61,4 +63,4 @@ It reflects strong capabilities in **data modeling, storytelling, and dashboard 
 
 ## 👩‍💻 Author  
 **Anjali Varun**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) | [GitHub](https://github.com/anjalivarun13) | [Portfolio](https://your-portfolio-link.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/anjali-varun/) | [GitHub](https://github.com/anjalivarun13) 
