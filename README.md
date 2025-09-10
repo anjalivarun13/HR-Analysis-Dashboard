@@ -43,11 +43,11 @@ The HR Analytics Dashboard addresses these challenges by:
 
 ## 📷 Dashboard Screenshots    
 - **Overview of Workforce Metrics**
-![Overview of Workforce Metrics](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Dashboard.png)
+![Overview of Workforce Metrics](https://github.com/anjalivarun13/HR-Analysis-Dashboard/blob/main/1.HR_analysis_dashboard.png)
 - **Department-wise Rating Analysis**
-![Department-wise Rating Analysis](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Dashboard.png)
+![Department-wise Rating Analysis](https://github.com/anjalivarun13/HR-Analysis-Dashboard/blob/main/2.Rating_page.png)
 - **Department-wise Salaries Analysis**
-![Department-wise Salaries Analysis](https://github.com/anjalivarun13/Netflix-Dashboard/blob/main/SnapShot_of_Dashboard.png)
+![Department-wise Salaries Analysis](https://github.com/anjalivarun13/HR-Analysis-Dashboard/blob/main/3.Salaries.png)
 
 ## 📊 Key Insights  
 - **52% of employees are female**, with a strong presence across departments.  
