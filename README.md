@@ -70,9 +70,9 @@ This transforms static HR data into **dynamic insights** for strategic workforce
 
 ## 📊 Key Insights  
 - **52% of employees are female**, with strong representation across departments.  
-- **Remote work** accounts for **49%** of the workforce, reflecting hybrid trends.  
+- **Remote work** accounts for **38%** of the workforce, reflecting hybrid trends.  
 - **Technical skills** are most common, followed by communication and management.  
-- **HR department** leads in performance ratings with an average of **3.8**.  
+- **HR department** leads in performance ratings with an average of **3.3**.  
 - **Managers** earn the highest salaries, followed by designers and sales reps.  
 - **Part-time and contract roles** make up **60%** of the workforce.  
 
