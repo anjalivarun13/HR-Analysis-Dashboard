@@ -1,30 +1,42 @@
-# 👥 HR Analytics Dashboard – Power BI Project
+# 👥 HR Analysis Dashboard – Excel Project  
 
 ## 📌 Project Overview  
-This project is a **Power BI Dashboard** designed to analyze key HR metrics across departments, roles, and regions. It transforms raw employee data into **actionable insights** for HR teams, managers, and decision-makers.  
+This project is an **Excel Dashboard** built to analyze key **Human Resources (HR)** metrics across departments, roles, and regions.  
+It provides actionable insights into **employee demographics, skills, salaries, performance ratings, leave tracking, and employment status**, helping HR teams and decision-makers make informed, data-driven decisions.  
 
-The dashboard covers **skills, salaries, performance ratings, employment status, demographics, and leave tracking**, offering a comprehensive view of workforce dynamics.
+To simulate **drill-down functionality**, this dashboard uses **Excel’s hyperlink feature** to connect pages—offering a seamless navigation experience similar to Power BI.
+
+---
 
 ## 🎯 Objectives  
-- To visualize and understand **employee distribution** across departments, roles, and locations.  
-- To analyze **salary trends, skill sets, and performance ratings** for strategic planning.  
-- To track **leave patterns and employment types** for operational efficiency.  
-- To empower HR teams with **interactive insights** for better decision-making.
+- To visualize workforce distribution across **departments, job titles, and locations**.  
+- To analyze **salary trends, skill sets, and performance ratings**.  
+- To track **leave patterns and employment types** for operational planning.  
+- To provide HR teams with a **clear, interactive summary** instead of raw spreadsheets.  
+
+---
 
 ## 🚩 Business Problem  
-Organizations often struggle with:  
-- Identifying **skill gaps** and training needs.  
-- Understanding **salary distribution** and performance alignment.  
-- Managing **diverse employment types** and remote work trends.  
-- Making data-driven decisions without relying on manual reports.
+Organizations often face challenges such as:  
+- Lack of visibility into **skill gaps and training needs**.  
+- Difficulty in analyzing **salary disparities and performance trends**.  
+- Inefficient tracking of **leave data and employment types**.  
+- Limited interactivity in traditional Excel reports.  
+
+Without visualization, HR data remains underutilized and hard to interpret.
+
+---
 
 ## ✅ How the Dashboard Solves This  
-The HR Analytics Dashboard addresses these challenges by:  
-- Visualizing **skill breakdowns** to guide hiring and training.  
-- Highlighting **salary distribution** across roles and departments.  
-- Analyzing **performance ratings** to identify high and low-performing areas.  
-- Tracking **leave data** and employment status for workforce planning.  
-- Offering **interactive filters** for deep dives into specific segments.
+The Excel dashboard addresses these challenges by:  
+- Offering a **centralized view** of HR metrics with KPIs and charts.  
+- Using **hyperlinked pages** to simulate **drill-down navigation**, similar to Power BI.  
+- Highlighting trends in **skills, salaries, and performance ratings**.  
+- Enabling **interactive filtering** through slicers and linked sheets.  
+
+This transforms static HR data into **dynamic insights** for strategic workforce planning.
+
+---
 
 ## ⚡ Features  
 - 📌 **KPIs at a glance:** Total employees, gender ratio, employment types.  
@@ -32,16 +44,21 @@ The HR Analytics Dashboard addresses these challenges by:
 - 📍 **Workplace Distribution:** Head office, branch, and remote employees.  
 - 📈 **Performance Ratings:** Department-wise average ratings and distribution.  
 - 🧾 **Leave Tracking:** Role-based leave insights.  
-- 🎛 **Interactivity:** Filters for department, job title, region, and employment status.  
-- 🎨 **Visuals Used:** Bar charts, line graphs, donut charts, and cards.
+- 🎛 **Interactivity:** Slicers and hyperlinks for drill-through navigation.  
+- 🎨 **Visuals Used:** Bar charts, line graphs, donut charts, and KPI cards.  
+
+---
 
 ## 🛠 Tech Stack  
-- **Power BI** → Dashboard creation & visualization  
-- **Excel Dataset** → HR data source  
-- **Power Query** → Data cleaning & transformation  
-- **Visualization Techniques** → Bar chart, line chart, donut chart, card visuals  
+- **Microsoft Excel** → Dashboard creation & visualization  
+- **Dataset** → HR sample dataset  
+- **Data Cleaning & Transformation** → Excel formulas + Power Query  
+- **Navigation Technique** → Hyperlinked pages to simulate drill-down  
+- **Visualization Techniques** → Bar chart, line chart, donut chart, KPI cards  
 
-## 📷 Dashboard Screenshots    
+---
+
+## 📷 Dashboard Screenshots  
 - **Overview of Workforce Metrics**
 ![Overview of Workforce Metrics](https://github.com/anjalivarun13/HR-Analysis-Dashboard/blob/main/1.HR_analysis_dashboard.png)
 - **Department-wise Rating Analysis**
@@ -49,18 +66,25 @@ The HR Analytics Dashboard addresses these challenges by:
 - **Department-wise Salaries Analysis**
 ![Department-wise Salaries Analysis](https://github.com/anjalivarun13/HR-Analysis-Dashboard/blob/main/3.Salaries.png)
 
+---
+
 ## 📊 Key Insights  
-- **52% of employees are female**, with a strong presence across departments.  
-- **Remote work** accounts for **48%** of the workforce, indicating a hybrid model.  
-- **Technical skills** dominate the skill set, followed by communication and management.  
-- **HR department** shows the highest average performance rating (3.8).  
-- **Salary distribution** varies significantly across roles, with managers earning the highest.  
-- **Part-time and contract roles** make up **60%** of the workforce, highlighting flexible employment trends.
+- **52% of employees are female**, with strong representation across departments.  
+- **Remote work** accounts for **49%** of the workforce, reflecting hybrid trends.  
+- **Technical skills** are most common, followed by communication and management.  
+- **HR department** leads in performance ratings with an average of **3.8**.  
+- **Managers** earn the highest salaries, followed by designers and sales reps.  
+- **Part-time and contract roles** make up **60%** of the workforce.  
+
+---
 
 ## ✅ Conclusion  
-This dashboard provides a **holistic view of HR operations**, enabling data-driven decisions in hiring, training, compensation, and performance management.  
-It reflects strong capabilities in **data modeling, storytelling, and dashboard design using Power BI**.
+This dashboard offers a **comprehensive view of HR operations**, enabling smarter decisions in hiring, training, compensation, and performance management.  
+It showcases strong skills in **Excel dashboarding, data storytelling, and creative problem-solving**, including the use of **hyperlinked drill-down navigation** to enhance user experience.
+
+---
 
 ## 👩‍💻 Author  
 **Anjali Varun**  
-🔗 [LinkedIn](https://www.linkedin.com/in/anjali-varun/) | [GitHub](https://github.com/anjalivarun13) 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/anjali-varun/) | [GitHub](https://github.com/anjalivarun13) | 
