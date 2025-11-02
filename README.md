@@ -87,4 +87,4 @@ It showcases strong skills in **Excel dashboarding, data storytelling, and creat
 ## 👩‍💻 Author  
 **Anjali Varun**  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/anjali-varun/) | [GitHub](https://github.com/anjalivarun13) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/anjali-varun/) | [GitHub](https://github.com/anjalivarun13) 
